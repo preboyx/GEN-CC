@@ -22,7 +22,7 @@
 
 **4. Haz clic en el botón "𝗚𝗲𝗻𝗲𝗿𝗮𝗿 𝗖𝗰𝘀".**
 
-##### **La aplicación generará dinámicamente las tarjetas de crédito aleatorias y las mostrará en un contenedor. Cada tarjeta se mostrará con la siguiente información:**
+##### • **La aplicación generará dinámicamente las tarjetas de crédito aleatorias y las mostrará en un contenedor. Cada tarjeta se mostrará con la siguiente información:**
 > ![](https://telegra.ph/file/e1e64d3fe6ac358fb21b0.jpg)
 
 * **Número de tarjeta de crédito**
