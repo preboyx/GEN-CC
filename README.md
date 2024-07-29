@@ -16,7 +16,7 @@
 
 **1. Abre GEN CC en tu navegador web.**
 
-**2. Ingresa el Bien que deseas generar y cantidad.**
+**2. Ingresa el Bin que deseas generar y cantidad.**
 
 **3. Introduce el mes y año de vencimiento deseado.**
 
