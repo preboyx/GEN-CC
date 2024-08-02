@@ -1,10 +1,5 @@
 # **• GEN CC💳**
 
-------
-
-
-## • **GEN CC: Crea tarjetas de crédito aleatorias🎯**
-> ![𝗚𝗘𝗡 𝗖𝗖](https://telegra.ph/file/a100e511148c01af69854.jpg)
 * **GEN CC es una herramienta súper simple e intuitiva para generar tarjetas de crédito aleatorias con datos ficticios.  Es perfecta para cualquier persona que necesite tarjetas de crédito de muestra para sus proyectos.**
 
 ## **Descripción📜:**
@@ -38,14 +33,3 @@ _**💢Los números de tarjeta de crédito generados son aleatorios y no están 
 _**💢La aplicación no proporciona ninguna validación ni verificación de los números de tarjeta de crédito generados. Son para fines de demostración y prueba únicamente.**_
 
 _**💢Utiliza GEN CC bajo tu propio riesgo. Yo no me hago responsable de cualquier uso inapropiado o ilegal de esta herramienta.**_
-
-------
-
-* ## __Créditos:__
-
-
-**• Canal: [@BoxPrey](https://t.me/BoxPrey)**
-
-**• BY: [@PreBoyx](https://t.me/PreBoyx)**
-
-**• BY: [@OCZ_Sk](https://t.me/OCZ_Sk)**
