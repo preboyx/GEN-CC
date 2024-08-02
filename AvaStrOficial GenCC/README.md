@@ -3,6 +3,7 @@
 > CCGEN se refiere a "Generador de Tarjetas de Crédito". Es una abreviatura comúnmente utilizada en el ámbito de la informática y la seguridad cibernética. Los generadores de tarjetas de crédito son herramientas que pueden crear números de tarjetas de crédito falsos para diversos fines, como pruebas de software, pruebas de transacciones y educación en seguridad cibernética.
 ### Url de la pagina web oline :
 > codepen : https://codepen.io/AvastrOficial/pen/YzoZOYj
+> 
 > Replit : https://replit.com/@StrAva1/GEN-CCS-BSZ?v=1
 ### COMO FUNCIONAN ?
 > Los generadores de tarjetas de crédito funcionan utilizando algoritmos específicos para producir números que siguen un patrón similar al de los números de tarjetas de crédito reales. Estos algoritmos tienen en cuenta la estructura y el formato típicos de los números de tarjetas de crédito, como los dígitos iniciales que identifican el tipo de tarjeta y el emisor, así como el algoritmo de Luhn, que se utiliza para verificar la validez de los números de tarjetas de crédito.
